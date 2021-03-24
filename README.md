@@ -4,7 +4,7 @@ A terminal/command line Dungeons and Dragons diceroller
 
 ## Instructions
 
-Run python python-dnd-diceroll on the command line or terminal
+Run python python-dnd-diceroll.py on the command line or terminal
 
 Enter a d4, d6, d8, d10, d12, d100, or d20 dice plus/minus any modifier
 
