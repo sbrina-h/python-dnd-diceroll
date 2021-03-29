@@ -1,14 +1,14 @@
 # python-dnd-diceroll
 
-A terminal/command line Dungeons and Dragons diceroller
+A terminal/command line Dungeons and Dragons diceroller written in python
 
 ## Instructions
 
-Run python python-dnd-diceroll.py on the command line or terminal
+Run python3 dnd_diceroll.py on the command line or terminal
 
 Enter a d4, d6, d8, d10, d12, d100, or d20 dice plus/minus any modifier
 
-To roll multiple dice, add the number before the dice 
+To roll multiple dice, add the number before the dice
 
 To roll with advantage start roll with 'adv', to roll with disadvantage start roll with 'dis'
 
